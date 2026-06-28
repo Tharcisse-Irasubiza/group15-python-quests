@@ -12,15 +12,6 @@ These structured quests systematically cover:
 *   Modular function design and return pipelines
 *   Integrated problem-solving application challenges
 
----
-
-## 👥 Group Members
-*   **Member 1:** `____________________`
-*   **Member 2:** `____________________`
-*   **Member 3:** `____________________`
-*   **Member 4:** `____________________`
-
----
 
 ## 📊 Quest Completion Board
 Keep track of progress across the campaign layout by toggling the task completion markers below:

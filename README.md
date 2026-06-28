@@ -29,14 +29,15 @@ Keep track of progress across the campaign layout by toggling the task completio
 - [x] **Level 2:** A Dialogue with the Machine (Input & Math) `✅`
 - [x] **Level 3:** The Crossroads of Logic (Conditionals) `✅`
 - [x] **Level 4:** The Power of Repetition (Loops) `✅`
-- [ ] **Level 5:** The Alchemist's Lab (Functions) `⬜`
-- [ ] **Level 6:** The Grand Challenge (Final Problems) `⬜`
+- [x] **Level 5:** The Alchemist's Lab (Functions) `✅`
+- [x] **Level 6:** The Grand Challenge (Final Problems) `✅`
 
 ---
 
 ## 📁 Project Structure
 
 To ensure uniform tracking across the group, all script deliverables are filed inside the `quests/` directory using clean snake_case indicators matching their designated quest number:
+
 
 ```text
 group15-python-quests/

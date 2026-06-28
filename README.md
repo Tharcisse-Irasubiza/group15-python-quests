@@ -1,4 +1,4 @@
-# Python Basics Quests – Group 15 🐍✨
+# Python Basics Quests – Group 15 🐍
 
 ## 📌 Overview
 Welcome to the Python Quests repository for **Group 15**. This workspace contains our foundational programming submissions completed as part of a collaborative peer learning journey. The core goal of these exercises is to strengthen script architecture, logical reasoning, and programmatic thinking from scratch.

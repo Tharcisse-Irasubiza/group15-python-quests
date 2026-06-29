@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 8: The Potion Brewer
 # Goal: Use basic arithmetic operators (+, -, *, /) to calculate a total cost.
 

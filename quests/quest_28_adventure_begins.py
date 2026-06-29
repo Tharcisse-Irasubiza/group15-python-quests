@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 28: The Adventure Begins
 # Goal: Build a text-based Choose Your Own Adventure game using functions
 # for different locations, with at least two different endings.

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 13: The Maze of Many Choices
 # Goal: Use if-elif-else to check multiple conditions for a grading program.
 

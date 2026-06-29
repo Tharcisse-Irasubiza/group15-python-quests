@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 3: The Treasure Chest
 # Goal: Create variables for age (int) and favorite food (string),
 # then print them in a single sentence.

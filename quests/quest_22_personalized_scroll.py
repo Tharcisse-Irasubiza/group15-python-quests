@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 22: The Personalized Scroll
 # Goal: Create a function with parameters, then call it using user input.
 
